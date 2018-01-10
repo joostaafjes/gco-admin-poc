@@ -1,7 +1,7 @@
 # gco-admin-poc
 
 
-Built on top of https://marmelab.com/admin-on-rest/index.html
+Built on top of https://github.com/marmelab/admin-on-rest
 
 
 ## Run
